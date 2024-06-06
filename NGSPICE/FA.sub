@@ -1,0 +1,8 @@
+
+.subckt FA A B Cin S C Vdd GND
+    X15 A B S1 Vdd GND XOR2
+    X16 S1 Cin S Vdd GND XOR2
+    X17 A B C2 Vdd GND AND2
+    X18 S1 Cin C1 Vdd GND AND2
+    X19 C1 C2 C Vdd GND OR2
+.ends FA

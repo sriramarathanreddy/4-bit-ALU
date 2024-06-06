@@ -1,0 +1,1027 @@
+VCD info: dumpfile ALU_out.vcd opened for output.
+at T=   0:A = xxxx, B = xxxx,S1 = x,S0 = x, Add_Sub = xxxxx, is A>B:x, is A=B:x, is A<B:x, AND = xxxx
+at T=   2:A = 0000, B = 0000,S1 = 0,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=   4:A = 0000, B = 0001,S1 = 0,S0 = 0, Add_Sub = 00001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=   6:A = 0000, B = 0010,S1 = 0,S0 = 0, Add_Sub = 00010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=   8:A = 0000, B = 0011,S1 = 0,S0 = 0, Add_Sub = 00011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  10:A = 0000, B = 0100,S1 = 0,S0 = 0, Add_Sub = 00100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  12:A = 0000, B = 0101,S1 = 0,S0 = 0, Add_Sub = 00101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  14:A = 0000, B = 0110,S1 = 0,S0 = 0, Add_Sub = 00110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  16:A = 0000, B = 0111,S1 = 0,S0 = 0, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  18:A = 0000, B = 1000,S1 = 0,S0 = 0, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  20:A = 0000, B = 1001,S1 = 0,S0 = 0, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  22:A = 0000, B = 1010,S1 = 0,S0 = 0, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  24:A = 0000, B = 1011,S1 = 0,S0 = 0, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  26:A = 0000, B = 1100,S1 = 0,S0 = 0, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  28:A = 0000, B = 1101,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  30:A = 0000, B = 1110,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  32:A = 0000, B = 1111,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  34:A = 0001, B = 0000,S1 = 0,S0 = 0, Add_Sub = 00001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  36:A = 0001, B = 0001,S1 = 0,S0 = 0, Add_Sub = 00010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  38:A = 0001, B = 0010,S1 = 0,S0 = 0, Add_Sub = 00011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  40:A = 0001, B = 0011,S1 = 0,S0 = 0, Add_Sub = 00100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  42:A = 0001, B = 0100,S1 = 0,S0 = 0, Add_Sub = 00101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  44:A = 0001, B = 0101,S1 = 0,S0 = 0, Add_Sub = 00110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  46:A = 0001, B = 0110,S1 = 0,S0 = 0, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  48:A = 0001, B = 0111,S1 = 0,S0 = 0, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  50:A = 0001, B = 1000,S1 = 0,S0 = 0, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  52:A = 0001, B = 1001,S1 = 0,S0 = 0, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  54:A = 0001, B = 1010,S1 = 0,S0 = 0, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  56:A = 0001, B = 1011,S1 = 0,S0 = 0, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  58:A = 0001, B = 1100,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  60:A = 0001, B = 1101,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  62:A = 0001, B = 1110,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  64:A = 0001, B = 1111,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  66:A = 0010, B = 0000,S1 = 0,S0 = 0, Add_Sub = 00010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  68:A = 0010, B = 0001,S1 = 0,S0 = 0, Add_Sub = 00011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  70:A = 0010, B = 0010,S1 = 0,S0 = 0, Add_Sub = 00100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  72:A = 0010, B = 0011,S1 = 0,S0 = 0, Add_Sub = 00101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  74:A = 0010, B = 0100,S1 = 0,S0 = 0, Add_Sub = 00110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  76:A = 0010, B = 0101,S1 = 0,S0 = 0, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  78:A = 0010, B = 0110,S1 = 0,S0 = 0, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  80:A = 0010, B = 0111,S1 = 0,S0 = 0, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  82:A = 0010, B = 1000,S1 = 0,S0 = 0, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  84:A = 0010, B = 1001,S1 = 0,S0 = 0, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  86:A = 0010, B = 1010,S1 = 0,S0 = 0, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  88:A = 0010, B = 1011,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  90:A = 0010, B = 1100,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  92:A = 0010, B = 1101,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  94:A = 0010, B = 1110,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  96:A = 0010, B = 1111,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=  98:A = 0011, B = 0000,S1 = 0,S0 = 0, Add_Sub = 00011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 100:A = 0011, B = 0001,S1 = 0,S0 = 0, Add_Sub = 00100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 102:A = 0011, B = 0010,S1 = 0,S0 = 0, Add_Sub = 00101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 104:A = 0011, B = 0011,S1 = 0,S0 = 0, Add_Sub = 00110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 106:A = 0011, B = 0100,S1 = 0,S0 = 0, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 108:A = 0011, B = 0101,S1 = 0,S0 = 0, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 110:A = 0011, B = 0110,S1 = 0,S0 = 0, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 112:A = 0011, B = 0111,S1 = 0,S0 = 0, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 114:A = 0011, B = 1000,S1 = 0,S0 = 0, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 116:A = 0011, B = 1001,S1 = 0,S0 = 0, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 118:A = 0011, B = 1010,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 120:A = 0011, B = 1011,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 122:A = 0011, B = 1100,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 124:A = 0011, B = 1101,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 126:A = 0011, B = 1110,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 128:A = 0011, B = 1111,S1 = 0,S0 = 0, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 130:A = 0100, B = 0000,S1 = 0,S0 = 0, Add_Sub = 00100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 132:A = 0100, B = 0001,S1 = 0,S0 = 0, Add_Sub = 00101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 134:A = 0100, B = 0010,S1 = 0,S0 = 0, Add_Sub = 00110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 136:A = 0100, B = 0011,S1 = 0,S0 = 0, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 138:A = 0100, B = 0100,S1 = 0,S0 = 0, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 140:A = 0100, B = 0101,S1 = 0,S0 = 0, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 142:A = 0100, B = 0110,S1 = 0,S0 = 0, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 144:A = 0100, B = 0111,S1 = 0,S0 = 0, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 146:A = 0100, B = 1000,S1 = 0,S0 = 0, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 148:A = 0100, B = 1001,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 150:A = 0100, B = 1010,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 152:A = 0100, B = 1011,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 154:A = 0100, B = 1100,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 156:A = 0100, B = 1101,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 158:A = 0100, B = 1110,S1 = 0,S0 = 0, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 160:A = 0100, B = 1111,S1 = 0,S0 = 0, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 162:A = 0101, B = 0000,S1 = 0,S0 = 0, Add_Sub = 00101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 164:A = 0101, B = 0001,S1 = 0,S0 = 0, Add_Sub = 00110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 166:A = 0101, B = 0010,S1 = 0,S0 = 0, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 168:A = 0101, B = 0011,S1 = 0,S0 = 0, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 170:A = 0101, B = 0100,S1 = 0,S0 = 0, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 172:A = 0101, B = 0101,S1 = 0,S0 = 0, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 174:A = 0101, B = 0110,S1 = 0,S0 = 0, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 176:A = 0101, B = 0111,S1 = 0,S0 = 0, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 178:A = 0101, B = 1000,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 180:A = 0101, B = 1001,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 182:A = 0101, B = 1010,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 184:A = 0101, B = 1011,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 186:A = 0101, B = 1100,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 188:A = 0101, B = 1101,S1 = 0,S0 = 0, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 190:A = 0101, B = 1110,S1 = 0,S0 = 0, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 192:A = 0101, B = 1111,S1 = 0,S0 = 0, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 194:A = 0110, B = 0000,S1 = 0,S0 = 0, Add_Sub = 00110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 196:A = 0110, B = 0001,S1 = 0,S0 = 0, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 198:A = 0110, B = 0010,S1 = 0,S0 = 0, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 200:A = 0110, B = 0011,S1 = 0,S0 = 0, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 202:A = 0110, B = 0100,S1 = 0,S0 = 0, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 204:A = 0110, B = 0101,S1 = 0,S0 = 0, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 206:A = 0110, B = 0110,S1 = 0,S0 = 0, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 208:A = 0110, B = 0111,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 210:A = 0110, B = 1000,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 212:A = 0110, B = 1001,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 214:A = 0110, B = 1010,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 216:A = 0110, B = 1011,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 218:A = 0110, B = 1100,S1 = 0,S0 = 0, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 220:A = 0110, B = 1101,S1 = 0,S0 = 0, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 222:A = 0110, B = 1110,S1 = 0,S0 = 0, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 224:A = 0110, B = 1111,S1 = 0,S0 = 0, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 226:A = 0111, B = 0000,S1 = 0,S0 = 0, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 228:A = 0111, B = 0001,S1 = 0,S0 = 0, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 230:A = 0111, B = 0010,S1 = 0,S0 = 0, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 232:A = 0111, B = 0011,S1 = 0,S0 = 0, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 234:A = 0111, B = 0100,S1 = 0,S0 = 0, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 236:A = 0111, B = 0101,S1 = 0,S0 = 0, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 238:A = 0111, B = 0110,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 240:A = 0111, B = 0111,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 242:A = 0111, B = 1000,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 244:A = 0111, B = 1001,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 246:A = 0111, B = 1010,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 248:A = 0111, B = 1011,S1 = 0,S0 = 0, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 250:A = 0111, B = 1100,S1 = 0,S0 = 0, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 252:A = 0111, B = 1101,S1 = 0,S0 = 0, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 254:A = 0111, B = 1110,S1 = 0,S0 = 0, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 256:A = 0111, B = 1111,S1 = 0,S0 = 0, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 258:A = 1000, B = 0000,S1 = 0,S0 = 0, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 260:A = 1000, B = 0001,S1 = 0,S0 = 0, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 262:A = 1000, B = 0010,S1 = 0,S0 = 0, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 264:A = 1000, B = 0011,S1 = 0,S0 = 0, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 266:A = 1000, B = 0100,S1 = 0,S0 = 0, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 268:A = 1000, B = 0101,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 270:A = 1000, B = 0110,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 272:A = 1000, B = 0111,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 274:A = 1000, B = 1000,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 276:A = 1000, B = 1001,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 278:A = 1000, B = 1010,S1 = 0,S0 = 0, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 280:A = 1000, B = 1011,S1 = 0,S0 = 0, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 282:A = 1000, B = 1100,S1 = 0,S0 = 0, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 284:A = 1000, B = 1101,S1 = 0,S0 = 0, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 286:A = 1000, B = 1110,S1 = 0,S0 = 0, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 288:A = 1000, B = 1111,S1 = 0,S0 = 0, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 290:A = 1001, B = 0000,S1 = 0,S0 = 0, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 292:A = 1001, B = 0001,S1 = 0,S0 = 0, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 294:A = 1001, B = 0010,S1 = 0,S0 = 0, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 296:A = 1001, B = 0011,S1 = 0,S0 = 0, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 298:A = 1001, B = 0100,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 300:A = 1001, B = 0101,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 302:A = 1001, B = 0110,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 304:A = 1001, B = 0111,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 306:A = 1001, B = 1000,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 308:A = 1001, B = 1001,S1 = 0,S0 = 0, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 310:A = 1001, B = 1010,S1 = 0,S0 = 0, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 312:A = 1001, B = 1011,S1 = 0,S0 = 0, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 314:A = 1001, B = 1100,S1 = 0,S0 = 0, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 316:A = 1001, B = 1101,S1 = 0,S0 = 0, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 318:A = 1001, B = 1110,S1 = 0,S0 = 0, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 320:A = 1001, B = 1111,S1 = 0,S0 = 0, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 322:A = 1010, B = 0000,S1 = 0,S0 = 0, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 324:A = 1010, B = 0001,S1 = 0,S0 = 0, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 326:A = 1010, B = 0010,S1 = 0,S0 = 0, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 328:A = 1010, B = 0011,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 330:A = 1010, B = 0100,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 332:A = 1010, B = 0101,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 334:A = 1010, B = 0110,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 336:A = 1010, B = 0111,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 338:A = 1010, B = 1000,S1 = 0,S0 = 0, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 340:A = 1010, B = 1001,S1 = 0,S0 = 0, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 342:A = 1010, B = 1010,S1 = 0,S0 = 0, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 344:A = 1010, B = 1011,S1 = 0,S0 = 0, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 346:A = 1010, B = 1100,S1 = 0,S0 = 0, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 348:A = 1010, B = 1101,S1 = 0,S0 = 0, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 350:A = 1010, B = 1110,S1 = 0,S0 = 0, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 352:A = 1010, B = 1111,S1 = 0,S0 = 0, Add_Sub = 11001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 354:A = 1011, B = 0000,S1 = 0,S0 = 0, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 356:A = 1011, B = 0001,S1 = 0,S0 = 0, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 358:A = 1011, B = 0010,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 360:A = 1011, B = 0011,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 362:A = 1011, B = 0100,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 364:A = 1011, B = 0101,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 366:A = 1011, B = 0110,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 368:A = 1011, B = 0111,S1 = 0,S0 = 0, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 370:A = 1011, B = 1000,S1 = 0,S0 = 0, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 372:A = 1011, B = 1001,S1 = 0,S0 = 0, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 374:A = 1011, B = 1010,S1 = 0,S0 = 0, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 376:A = 1011, B = 1011,S1 = 0,S0 = 0, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 378:A = 1011, B = 1100,S1 = 0,S0 = 0, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 380:A = 1011, B = 1101,S1 = 0,S0 = 0, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 382:A = 1011, B = 1110,S1 = 0,S0 = 0, Add_Sub = 11001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 384:A = 1011, B = 1111,S1 = 0,S0 = 0, Add_Sub = 11010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 386:A = 1100, B = 0000,S1 = 0,S0 = 0, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 388:A = 1100, B = 0001,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 390:A = 1100, B = 0010,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 392:A = 1100, B = 0011,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 394:A = 1100, B = 0100,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 396:A = 1100, B = 0101,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 398:A = 1100, B = 0110,S1 = 0,S0 = 0, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 400:A = 1100, B = 0111,S1 = 0,S0 = 0, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 402:A = 1100, B = 1000,S1 = 0,S0 = 0, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 404:A = 1100, B = 1001,S1 = 0,S0 = 0, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 406:A = 1100, B = 1010,S1 = 0,S0 = 0, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 408:A = 1100, B = 1011,S1 = 0,S0 = 0, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 410:A = 1100, B = 1100,S1 = 0,S0 = 0, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 412:A = 1100, B = 1101,S1 = 0,S0 = 0, Add_Sub = 11001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 414:A = 1100, B = 1110,S1 = 0,S0 = 0, Add_Sub = 11010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 416:A = 1100, B = 1111,S1 = 0,S0 = 0, Add_Sub = 11011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 418:A = 1101, B = 0000,S1 = 0,S0 = 0, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 420:A = 1101, B = 0001,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 422:A = 1101, B = 0010,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 424:A = 1101, B = 0011,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 426:A = 1101, B = 0100,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 428:A = 1101, B = 0101,S1 = 0,S0 = 0, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 430:A = 1101, B = 0110,S1 = 0,S0 = 0, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 432:A = 1101, B = 0111,S1 = 0,S0 = 0, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 434:A = 1101, B = 1000,S1 = 0,S0 = 0, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 436:A = 1101, B = 1001,S1 = 0,S0 = 0, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 438:A = 1101, B = 1010,S1 = 0,S0 = 0, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 440:A = 1101, B = 1011,S1 = 0,S0 = 0, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 442:A = 1101, B = 1100,S1 = 0,S0 = 0, Add_Sub = 11001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 444:A = 1101, B = 1101,S1 = 0,S0 = 0, Add_Sub = 11010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 446:A = 1101, B = 1110,S1 = 0,S0 = 0, Add_Sub = 11011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 448:A = 1101, B = 1111,S1 = 0,S0 = 0, Add_Sub = 11100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 450:A = 1110, B = 0000,S1 = 0,S0 = 0, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 452:A = 1110, B = 0001,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 454:A = 1110, B = 0010,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 456:A = 1110, B = 0011,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 458:A = 1110, B = 0100,S1 = 0,S0 = 0, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 460:A = 1110, B = 0101,S1 = 0,S0 = 0, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 462:A = 1110, B = 0110,S1 = 0,S0 = 0, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 464:A = 1110, B = 0111,S1 = 0,S0 = 0, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 466:A = 1110, B = 1000,S1 = 0,S0 = 0, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 468:A = 1110, B = 1001,S1 = 0,S0 = 0, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 470:A = 1110, B = 1010,S1 = 0,S0 = 0, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 472:A = 1110, B = 1011,S1 = 0,S0 = 0, Add_Sub = 11001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 474:A = 1110, B = 1100,S1 = 0,S0 = 0, Add_Sub = 11010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 476:A = 1110, B = 1101,S1 = 0,S0 = 0, Add_Sub = 11011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 478:A = 1110, B = 1110,S1 = 0,S0 = 0, Add_Sub = 11100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 480:A = 1110, B = 1111,S1 = 0,S0 = 0, Add_Sub = 11101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 482:A = 1111, B = 0000,S1 = 0,S0 = 0, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 484:A = 1111, B = 0001,S1 = 0,S0 = 0, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 486:A = 1111, B = 0010,S1 = 0,S0 = 0, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 488:A = 1111, B = 0011,S1 = 0,S0 = 0, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 490:A = 1111, B = 0100,S1 = 0,S0 = 0, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 492:A = 1111, B = 0101,S1 = 0,S0 = 0, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 494:A = 1111, B = 0110,S1 = 0,S0 = 0, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 496:A = 1111, B = 0111,S1 = 0,S0 = 0, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 498:A = 1111, B = 1000,S1 = 0,S0 = 0, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 500:A = 1111, B = 1001,S1 = 0,S0 = 0, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 502:A = 1111, B = 1010,S1 = 0,S0 = 0, Add_Sub = 11001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 504:A = 1111, B = 1011,S1 = 0,S0 = 0, Add_Sub = 11010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 506:A = 1111, B = 1100,S1 = 0,S0 = 0, Add_Sub = 11011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 508:A = 1111, B = 1101,S1 = 0,S0 = 0, Add_Sub = 11100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 510:A = 1111, B = 1110,S1 = 0,S0 = 0, Add_Sub = 11101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 512:A = 1111, B = 1111,S1 = 0,S0 = 0, Add_Sub = 11110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 514:A = 0000, B = 0000,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 516:A = 0000, B = 0001,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 518:A = 0000, B = 0010,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 520:A = 0000, B = 0011,S1 = 0,S0 = 1, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 522:A = 0000, B = 0100,S1 = 0,S0 = 1, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 524:A = 0000, B = 0101,S1 = 0,S0 = 1, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 526:A = 0000, B = 0110,S1 = 0,S0 = 1, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 528:A = 0000, B = 0111,S1 = 0,S0 = 1, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 530:A = 0000, B = 1000,S1 = 0,S0 = 1, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 532:A = 0000, B = 1001,S1 = 0,S0 = 1, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 534:A = 0000, B = 1010,S1 = 0,S0 = 1, Add_Sub = 00110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 536:A = 0000, B = 1011,S1 = 0,S0 = 1, Add_Sub = 00101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 538:A = 0000, B = 1100,S1 = 0,S0 = 1, Add_Sub = 00100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 540:A = 0000, B = 1101,S1 = 0,S0 = 1, Add_Sub = 00011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 542:A = 0000, B = 1110,S1 = 0,S0 = 1, Add_Sub = 00010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 544:A = 0000, B = 1111,S1 = 0,S0 = 1, Add_Sub = 00001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 546:A = 0001, B = 0000,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 548:A = 0001, B = 0001,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 550:A = 0001, B = 0010,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 552:A = 0001, B = 0011,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 554:A = 0001, B = 0100,S1 = 0,S0 = 1, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 556:A = 0001, B = 0101,S1 = 0,S0 = 1, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 558:A = 0001, B = 0110,S1 = 0,S0 = 1, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 560:A = 0001, B = 0111,S1 = 0,S0 = 1, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 562:A = 0001, B = 1000,S1 = 0,S0 = 1, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 564:A = 0001, B = 1001,S1 = 0,S0 = 1, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 566:A = 0001, B = 1010,S1 = 0,S0 = 1, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 568:A = 0001, B = 1011,S1 = 0,S0 = 1, Add_Sub = 00110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 570:A = 0001, B = 1100,S1 = 0,S0 = 1, Add_Sub = 00101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 572:A = 0001, B = 1101,S1 = 0,S0 = 1, Add_Sub = 00100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 574:A = 0001, B = 1110,S1 = 0,S0 = 1, Add_Sub = 00011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 576:A = 0001, B = 1111,S1 = 0,S0 = 1, Add_Sub = 00010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 578:A = 0010, B = 0000,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 580:A = 0010, B = 0001,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 582:A = 0010, B = 0010,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 584:A = 0010, B = 0011,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 586:A = 0010, B = 0100,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 588:A = 0010, B = 0101,S1 = 0,S0 = 1, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 590:A = 0010, B = 0110,S1 = 0,S0 = 1, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 592:A = 0010, B = 0111,S1 = 0,S0 = 1, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 594:A = 0010, B = 1000,S1 = 0,S0 = 1, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 596:A = 0010, B = 1001,S1 = 0,S0 = 1, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 598:A = 0010, B = 1010,S1 = 0,S0 = 1, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 600:A = 0010, B = 1011,S1 = 0,S0 = 1, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 602:A = 0010, B = 1100,S1 = 0,S0 = 1, Add_Sub = 00110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 604:A = 0010, B = 1101,S1 = 0,S0 = 1, Add_Sub = 00101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 606:A = 0010, B = 1110,S1 = 0,S0 = 1, Add_Sub = 00100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 608:A = 0010, B = 1111,S1 = 0,S0 = 1, Add_Sub = 00011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 610:A = 0011, B = 0000,S1 = 0,S0 = 1, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 612:A = 0011, B = 0001,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 614:A = 0011, B = 0010,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 616:A = 0011, B = 0011,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 618:A = 0011, B = 0100,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 620:A = 0011, B = 0101,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 622:A = 0011, B = 0110,S1 = 0,S0 = 1, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 624:A = 0011, B = 0111,S1 = 0,S0 = 1, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 626:A = 0011, B = 1000,S1 = 0,S0 = 1, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 628:A = 0011, B = 1001,S1 = 0,S0 = 1, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 630:A = 0011, B = 1010,S1 = 0,S0 = 1, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 632:A = 0011, B = 1011,S1 = 0,S0 = 1, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 634:A = 0011, B = 1100,S1 = 0,S0 = 1, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 636:A = 0011, B = 1101,S1 = 0,S0 = 1, Add_Sub = 00110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 638:A = 0011, B = 1110,S1 = 0,S0 = 1, Add_Sub = 00101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 640:A = 0011, B = 1111,S1 = 0,S0 = 1, Add_Sub = 00100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 642:A = 0100, B = 0000,S1 = 0,S0 = 1, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 644:A = 0100, B = 0001,S1 = 0,S0 = 1, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 646:A = 0100, B = 0010,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 648:A = 0100, B = 0011,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 650:A = 0100, B = 0100,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 652:A = 0100, B = 0101,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 654:A = 0100, B = 0110,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 656:A = 0100, B = 0111,S1 = 0,S0 = 1, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 658:A = 0100, B = 1000,S1 = 0,S0 = 1, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 660:A = 0100, B = 1001,S1 = 0,S0 = 1, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 662:A = 0100, B = 1010,S1 = 0,S0 = 1, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 664:A = 0100, B = 1011,S1 = 0,S0 = 1, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 666:A = 0100, B = 1100,S1 = 0,S0 = 1, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 668:A = 0100, B = 1101,S1 = 0,S0 = 1, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 670:A = 0100, B = 1110,S1 = 0,S0 = 1, Add_Sub = 00110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 672:A = 0100, B = 1111,S1 = 0,S0 = 1, Add_Sub = 00101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 674:A = 0101, B = 0000,S1 = 0,S0 = 1, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 676:A = 0101, B = 0001,S1 = 0,S0 = 1, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 678:A = 0101, B = 0010,S1 = 0,S0 = 1, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 680:A = 0101, B = 0011,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 682:A = 0101, B = 0100,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 684:A = 0101, B = 0101,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 686:A = 0101, B = 0110,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 688:A = 0101, B = 0111,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 690:A = 0101, B = 1000,S1 = 0,S0 = 1, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 692:A = 0101, B = 1001,S1 = 0,S0 = 1, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 694:A = 0101, B = 1010,S1 = 0,S0 = 1, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 696:A = 0101, B = 1011,S1 = 0,S0 = 1, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 698:A = 0101, B = 1100,S1 = 0,S0 = 1, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 700:A = 0101, B = 1101,S1 = 0,S0 = 1, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 702:A = 0101, B = 1110,S1 = 0,S0 = 1, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 704:A = 0101, B = 1111,S1 = 0,S0 = 1, Add_Sub = 00110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 706:A = 0110, B = 0000,S1 = 0,S0 = 1, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 708:A = 0110, B = 0001,S1 = 0,S0 = 1, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 710:A = 0110, B = 0010,S1 = 0,S0 = 1, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 712:A = 0110, B = 0011,S1 = 0,S0 = 1, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 714:A = 0110, B = 0100,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 716:A = 0110, B = 0101,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 718:A = 0110, B = 0110,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 720:A = 0110, B = 0111,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 722:A = 0110, B = 1000,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 724:A = 0110, B = 1001,S1 = 0,S0 = 1, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 726:A = 0110, B = 1010,S1 = 0,S0 = 1, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 728:A = 0110, B = 1011,S1 = 0,S0 = 1, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 730:A = 0110, B = 1100,S1 = 0,S0 = 1, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 732:A = 0110, B = 1101,S1 = 0,S0 = 1, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 734:A = 0110, B = 1110,S1 = 0,S0 = 1, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 736:A = 0110, B = 1111,S1 = 0,S0 = 1, Add_Sub = 00111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 738:A = 0111, B = 0000,S1 = 0,S0 = 1, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 740:A = 0111, B = 0001,S1 = 0,S0 = 1, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 742:A = 0111, B = 0010,S1 = 0,S0 = 1, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 744:A = 0111, B = 0011,S1 = 0,S0 = 1, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 746:A = 0111, B = 0100,S1 = 0,S0 = 1, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 748:A = 0111, B = 0101,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 750:A = 0111, B = 0110,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 752:A = 0111, B = 0111,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 754:A = 0111, B = 1000,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 756:A = 0111, B = 1001,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 758:A = 0111, B = 1010,S1 = 0,S0 = 1, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 760:A = 0111, B = 1011,S1 = 0,S0 = 1, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 762:A = 0111, B = 1100,S1 = 0,S0 = 1, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 764:A = 0111, B = 1101,S1 = 0,S0 = 1, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 766:A = 0111, B = 1110,S1 = 0,S0 = 1, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 768:A = 0111, B = 1111,S1 = 0,S0 = 1, Add_Sub = 01000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 770:A = 1000, B = 0000,S1 = 0,S0 = 1, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 772:A = 1000, B = 0001,S1 = 0,S0 = 1, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 774:A = 1000, B = 0010,S1 = 0,S0 = 1, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 776:A = 1000, B = 0011,S1 = 0,S0 = 1, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 778:A = 1000, B = 0100,S1 = 0,S0 = 1, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 780:A = 1000, B = 0101,S1 = 0,S0 = 1, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 782:A = 1000, B = 0110,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 784:A = 1000, B = 0111,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 786:A = 1000, B = 1000,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 788:A = 1000, B = 1001,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 790:A = 1000, B = 1010,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 792:A = 1000, B = 1011,S1 = 0,S0 = 1, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 794:A = 1000, B = 1100,S1 = 0,S0 = 1, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 796:A = 1000, B = 1101,S1 = 0,S0 = 1, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 798:A = 1000, B = 1110,S1 = 0,S0 = 1, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 800:A = 1000, B = 1111,S1 = 0,S0 = 1, Add_Sub = 01001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 802:A = 1001, B = 0000,S1 = 0,S0 = 1, Add_Sub = 11001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 804:A = 1001, B = 0001,S1 = 0,S0 = 1, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 806:A = 1001, B = 0010,S1 = 0,S0 = 1, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 808:A = 1001, B = 0011,S1 = 0,S0 = 1, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 810:A = 1001, B = 0100,S1 = 0,S0 = 1, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 812:A = 1001, B = 0101,S1 = 0,S0 = 1, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 814:A = 1001, B = 0110,S1 = 0,S0 = 1, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 816:A = 1001, B = 0111,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 818:A = 1001, B = 1000,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 820:A = 1001, B = 1001,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 822:A = 1001, B = 1010,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 824:A = 1001, B = 1011,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 826:A = 1001, B = 1100,S1 = 0,S0 = 1, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 828:A = 1001, B = 1101,S1 = 0,S0 = 1, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 830:A = 1001, B = 1110,S1 = 0,S0 = 1, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 832:A = 1001, B = 1111,S1 = 0,S0 = 1, Add_Sub = 01010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 834:A = 1010, B = 0000,S1 = 0,S0 = 1, Add_Sub = 11010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 836:A = 1010, B = 0001,S1 = 0,S0 = 1, Add_Sub = 11001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 838:A = 1010, B = 0010,S1 = 0,S0 = 1, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 840:A = 1010, B = 0011,S1 = 0,S0 = 1, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 842:A = 1010, B = 0100,S1 = 0,S0 = 1, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 844:A = 1010, B = 0101,S1 = 0,S0 = 1, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 846:A = 1010, B = 0110,S1 = 0,S0 = 1, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 848:A = 1010, B = 0111,S1 = 0,S0 = 1, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 850:A = 1010, B = 1000,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 852:A = 1010, B = 1001,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 854:A = 1010, B = 1010,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 856:A = 1010, B = 1011,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 858:A = 1010, B = 1100,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 860:A = 1010, B = 1101,S1 = 0,S0 = 1, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 862:A = 1010, B = 1110,S1 = 0,S0 = 1, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 864:A = 1010, B = 1111,S1 = 0,S0 = 1, Add_Sub = 01011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 866:A = 1011, B = 0000,S1 = 0,S0 = 1, Add_Sub = 11011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 868:A = 1011, B = 0001,S1 = 0,S0 = 1, Add_Sub = 11010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 870:A = 1011, B = 0010,S1 = 0,S0 = 1, Add_Sub = 11001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 872:A = 1011, B = 0011,S1 = 0,S0 = 1, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 874:A = 1011, B = 0100,S1 = 0,S0 = 1, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 876:A = 1011, B = 0101,S1 = 0,S0 = 1, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 878:A = 1011, B = 0110,S1 = 0,S0 = 1, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 880:A = 1011, B = 0111,S1 = 0,S0 = 1, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 882:A = 1011, B = 1000,S1 = 0,S0 = 1, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 884:A = 1011, B = 1001,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 886:A = 1011, B = 1010,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 888:A = 1011, B = 1011,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 890:A = 1011, B = 1100,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 892:A = 1011, B = 1101,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 894:A = 1011, B = 1110,S1 = 0,S0 = 1, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 896:A = 1011, B = 1111,S1 = 0,S0 = 1, Add_Sub = 01100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 898:A = 1100, B = 0000,S1 = 0,S0 = 1, Add_Sub = 11100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 900:A = 1100, B = 0001,S1 = 0,S0 = 1, Add_Sub = 11011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 902:A = 1100, B = 0010,S1 = 0,S0 = 1, Add_Sub = 11010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 904:A = 1100, B = 0011,S1 = 0,S0 = 1, Add_Sub = 11001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 906:A = 1100, B = 0100,S1 = 0,S0 = 1, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 908:A = 1100, B = 0101,S1 = 0,S0 = 1, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 910:A = 1100, B = 0110,S1 = 0,S0 = 1, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 912:A = 1100, B = 0111,S1 = 0,S0 = 1, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 914:A = 1100, B = 1000,S1 = 0,S0 = 1, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 916:A = 1100, B = 1001,S1 = 0,S0 = 1, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 918:A = 1100, B = 1010,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 920:A = 1100, B = 1011,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 922:A = 1100, B = 1100,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 924:A = 1100, B = 1101,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 926:A = 1100, B = 1110,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 928:A = 1100, B = 1111,S1 = 0,S0 = 1, Add_Sub = 01101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 930:A = 1101, B = 0000,S1 = 0,S0 = 1, Add_Sub = 11101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 932:A = 1101, B = 0001,S1 = 0,S0 = 1, Add_Sub = 11100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 934:A = 1101, B = 0010,S1 = 0,S0 = 1, Add_Sub = 11011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 936:A = 1101, B = 0011,S1 = 0,S0 = 1, Add_Sub = 11010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 938:A = 1101, B = 0100,S1 = 0,S0 = 1, Add_Sub = 11001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 940:A = 1101, B = 0101,S1 = 0,S0 = 1, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 942:A = 1101, B = 0110,S1 = 0,S0 = 1, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 944:A = 1101, B = 0111,S1 = 0,S0 = 1, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 946:A = 1101, B = 1000,S1 = 0,S0 = 1, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 948:A = 1101, B = 1001,S1 = 0,S0 = 1, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 950:A = 1101, B = 1010,S1 = 0,S0 = 1, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 952:A = 1101, B = 1011,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 954:A = 1101, B = 1100,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 956:A = 1101, B = 1101,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 958:A = 1101, B = 1110,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 960:A = 1101, B = 1111,S1 = 0,S0 = 1, Add_Sub = 01110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 962:A = 1110, B = 0000,S1 = 0,S0 = 1, Add_Sub = 11110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 964:A = 1110, B = 0001,S1 = 0,S0 = 1, Add_Sub = 11101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 966:A = 1110, B = 0010,S1 = 0,S0 = 1, Add_Sub = 11100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 968:A = 1110, B = 0011,S1 = 0,S0 = 1, Add_Sub = 11011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 970:A = 1110, B = 0100,S1 = 0,S0 = 1, Add_Sub = 11010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 972:A = 1110, B = 0101,S1 = 0,S0 = 1, Add_Sub = 11001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 974:A = 1110, B = 0110,S1 = 0,S0 = 1, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 976:A = 1110, B = 0111,S1 = 0,S0 = 1, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 978:A = 1110, B = 1000,S1 = 0,S0 = 1, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 980:A = 1110, B = 1001,S1 = 0,S0 = 1, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 982:A = 1110, B = 1010,S1 = 0,S0 = 1, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 984:A = 1110, B = 1011,S1 = 0,S0 = 1, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 986:A = 1110, B = 1100,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 988:A = 1110, B = 1101,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 990:A = 1110, B = 1110,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 992:A = 1110, B = 1111,S1 = 0,S0 = 1, Add_Sub = 01111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 994:A = 1111, B = 0000,S1 = 0,S0 = 1, Add_Sub = 11111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 996:A = 1111, B = 0001,S1 = 0,S0 = 1, Add_Sub = 11110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T= 998:A = 1111, B = 0010,S1 = 0,S0 = 1, Add_Sub = 11101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1000:A = 1111, B = 0011,S1 = 0,S0 = 1, Add_Sub = 11100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1002:A = 1111, B = 0100,S1 = 0,S0 = 1, Add_Sub = 11011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1004:A = 1111, B = 0101,S1 = 0,S0 = 1, Add_Sub = 11010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1006:A = 1111, B = 0110,S1 = 0,S0 = 1, Add_Sub = 11001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1008:A = 1111, B = 0111,S1 = 0,S0 = 1, Add_Sub = 11000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1010:A = 1111, B = 1000,S1 = 0,S0 = 1, Add_Sub = 10111, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1012:A = 1111, B = 1001,S1 = 0,S0 = 1, Add_Sub = 10110, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1014:A = 1111, B = 1010,S1 = 0,S0 = 1, Add_Sub = 10101, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1016:A = 1111, B = 1011,S1 = 0,S0 = 1, Add_Sub = 10100, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1018:A = 1111, B = 1100,S1 = 0,S0 = 1, Add_Sub = 10011, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1020:A = 1111, B = 1101,S1 = 0,S0 = 1, Add_Sub = 10010, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1022:A = 1111, B = 1110,S1 = 0,S0 = 1, Add_Sub = 10001, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1024:A = 1111, B = 1111,S1 = 0,S0 = 1, Add_Sub = 10000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1026:A = 0000, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1028:A = 0000, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1030:A = 0000, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1032:A = 0000, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1034:A = 0000, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1036:A = 0000, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1038:A = 0000, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1040:A = 0000, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1042:A = 0000, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1044:A = 0000, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1046:A = 0000, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1048:A = 0000, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1050:A = 0000, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1052:A = 0000, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1054:A = 0000, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1056:A = 0000, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1058:A = 0001, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1060:A = 0001, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1062:A = 0001, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1064:A = 0001, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1066:A = 0001, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1068:A = 0001, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1070:A = 0001, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1072:A = 0001, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1074:A = 0001, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1076:A = 0001, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1078:A = 0001, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1080:A = 0001, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1082:A = 0001, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1084:A = 0001, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1086:A = 0001, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1088:A = 0001, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1090:A = 0010, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1092:A = 0010, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1094:A = 0010, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1096:A = 0010, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1098:A = 0010, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1100:A = 0010, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1102:A = 0010, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1104:A = 0010, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1106:A = 0010, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1108:A = 0010, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1110:A = 0010, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1112:A = 0010, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1114:A = 0010, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1116:A = 0010, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1118:A = 0010, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1120:A = 0010, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1122:A = 0011, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1124:A = 0011, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1126:A = 0011, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1128:A = 0011, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1130:A = 0011, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1132:A = 0011, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1134:A = 0011, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1136:A = 0011, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1138:A = 0011, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1140:A = 0011, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1142:A = 0011, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1144:A = 0011, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1146:A = 0011, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1148:A = 0011, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1150:A = 0011, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1152:A = 0011, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1154:A = 0100, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1156:A = 0100, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1158:A = 0100, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1160:A = 0100, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1162:A = 0100, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1164:A = 0100, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1166:A = 0100, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1168:A = 0100, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1170:A = 0100, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1172:A = 0100, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1174:A = 0100, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1176:A = 0100, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1178:A = 0100, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1180:A = 0100, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1182:A = 0100, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1184:A = 0100, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1186:A = 0101, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1188:A = 0101, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1190:A = 0101, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1192:A = 0101, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1194:A = 0101, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1196:A = 0101, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1198:A = 0101, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1200:A = 0101, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1202:A = 0101, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1204:A = 0101, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1206:A = 0101, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1208:A = 0101, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1210:A = 0101, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1212:A = 0101, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1214:A = 0101, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1216:A = 0101, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1218:A = 0110, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1220:A = 0110, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1222:A = 0110, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1224:A = 0110, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1226:A = 0110, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1228:A = 0110, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1230:A = 0110, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1232:A = 0110, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1234:A = 0110, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1236:A = 0110, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1238:A = 0110, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1240:A = 0110, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1242:A = 0110, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1244:A = 0110, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1246:A = 0110, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1248:A = 0110, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1250:A = 0111, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1252:A = 0111, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1254:A = 0111, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1256:A = 0111, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1258:A = 0111, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1260:A = 0111, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1262:A = 0111, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1264:A = 0111, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1266:A = 0111, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1268:A = 0111, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1270:A = 0111, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1272:A = 0111, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1274:A = 0111, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1276:A = 0111, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1278:A = 0111, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1280:A = 0111, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1282:A = 1000, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1284:A = 1000, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1286:A = 1000, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1288:A = 1000, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1290:A = 1000, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1292:A = 1000, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1294:A = 1000, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1296:A = 1000, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1298:A = 1000, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1300:A = 1000, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1302:A = 1000, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1304:A = 1000, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1306:A = 1000, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1308:A = 1000, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1310:A = 1000, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1312:A = 1000, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1314:A = 1001, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1316:A = 1001, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1318:A = 1001, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1320:A = 1001, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1322:A = 1001, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1324:A = 1001, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1326:A = 1001, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1328:A = 1001, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1330:A = 1001, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1332:A = 1001, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1334:A = 1001, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1336:A = 1001, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1338:A = 1001, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1340:A = 1001, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1342:A = 1001, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1344:A = 1001, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1346:A = 1010, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1348:A = 1010, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1350:A = 1010, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1352:A = 1010, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1354:A = 1010, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1356:A = 1010, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1358:A = 1010, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1360:A = 1010, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1362:A = 1010, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1364:A = 1010, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1366:A = 1010, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1368:A = 1010, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1370:A = 1010, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1372:A = 1010, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1374:A = 1010, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1376:A = 1010, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1378:A = 1011, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1380:A = 1011, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1382:A = 1011, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1384:A = 1011, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1386:A = 1011, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1388:A = 1011, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1390:A = 1011, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1392:A = 1011, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1394:A = 1011, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1396:A = 1011, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1398:A = 1011, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1400:A = 1011, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1402:A = 1011, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1404:A = 1011, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1406:A = 1011, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1408:A = 1011, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1410:A = 1100, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1412:A = 1100, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1414:A = 1100, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1416:A = 1100, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1418:A = 1100, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1420:A = 1100, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1422:A = 1100, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1424:A = 1100, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1426:A = 1100, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1428:A = 1100, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1430:A = 1100, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1432:A = 1100, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1434:A = 1100, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1436:A = 1100, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1438:A = 1100, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1440:A = 1100, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1442:A = 1101, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1444:A = 1101, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1446:A = 1101, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1448:A = 1101, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1450:A = 1101, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1452:A = 1101, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1454:A = 1101, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1456:A = 1101, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1458:A = 1101, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1460:A = 1101, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1462:A = 1101, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1464:A = 1101, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1466:A = 1101, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1468:A = 1101, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1470:A = 1101, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1472:A = 1101, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1474:A = 1110, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1476:A = 1110, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1478:A = 1110, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1480:A = 1110, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1482:A = 1110, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1484:A = 1110, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1486:A = 1110, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1488:A = 1110, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1490:A = 1110, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1492:A = 1110, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1494:A = 1110, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1496:A = 1110, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1498:A = 1110, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1500:A = 1110, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1502:A = 1110, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1504:A = 1110, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:1, AND = 0000
+at T=1506:A = 1111, B = 0000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1508:A = 1111, B = 0001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1510:A = 1111, B = 0010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1512:A = 1111, B = 0011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1514:A = 1111, B = 0100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1516:A = 1111, B = 0101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1518:A = 1111, B = 0110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1520:A = 1111, B = 0111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1522:A = 1111, B = 1000,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1524:A = 1111, B = 1001,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1526:A = 1111, B = 1010,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1528:A = 1111, B = 1011,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1530:A = 1111, B = 1100,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1532:A = 1111, B = 1101,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1534:A = 1111, B = 1110,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:1, is A=B:0, is A<B:0, AND = 0000
+at T=1536:A = 1111, B = 1111,S1 = 1,S0 = 0, Add_Sub = 00000, is A>B:0, is A=B:1, is A<B:0, AND = 0000
+at T=1538:A = 0000, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1540:A = 0000, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1542:A = 0000, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1544:A = 0000, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1546:A = 0000, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1548:A = 0000, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1550:A = 0000, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1552:A = 0000, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1554:A = 0000, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1556:A = 0000, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1558:A = 0000, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1560:A = 0000, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1562:A = 0000, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1564:A = 0000, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1566:A = 0000, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1568:A = 0000, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1570:A = 0001, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1572:A = 0001, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1574:A = 0001, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1576:A = 0001, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1578:A = 0001, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1580:A = 0001, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1582:A = 0001, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1584:A = 0001, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1586:A = 0001, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1588:A = 0001, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1590:A = 0001, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1592:A = 0001, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1594:A = 0001, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1596:A = 0001, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1598:A = 0001, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1600:A = 0001, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1602:A = 0010, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1604:A = 0010, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1606:A = 0010, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1608:A = 0010, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1610:A = 0010, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1612:A = 0010, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1614:A = 0010, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1616:A = 0010, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1618:A = 0010, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1620:A = 0010, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1622:A = 0010, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1624:A = 0010, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1626:A = 0010, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1628:A = 0010, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1630:A = 0010, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1632:A = 0010, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1634:A = 0011, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1636:A = 0011, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1638:A = 0011, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1640:A = 0011, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0011
+at T=1642:A = 0011, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1644:A = 0011, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1646:A = 0011, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1648:A = 0011, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0011
+at T=1650:A = 0011, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1652:A = 0011, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1654:A = 0011, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1656:A = 0011, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0011
+at T=1658:A = 0011, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1660:A = 0011, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1662:A = 0011, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1664:A = 0011, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0011
+at T=1666:A = 0100, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1668:A = 0100, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1670:A = 0100, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1672:A = 0100, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1674:A = 0100, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1676:A = 0100, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1678:A = 0100, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1680:A = 0100, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1682:A = 0100, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1684:A = 0100, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1686:A = 0100, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1688:A = 0100, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1690:A = 0100, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1692:A = 0100, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1694:A = 0100, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1696:A = 0100, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1698:A = 0101, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1700:A = 0101, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1702:A = 0101, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1704:A = 0101, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1706:A = 0101, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1708:A = 0101, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0101
+at T=1710:A = 0101, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1712:A = 0101, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0101
+at T=1714:A = 0101, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1716:A = 0101, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1718:A = 0101, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1720:A = 0101, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1722:A = 0101, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1724:A = 0101, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0101
+at T=1726:A = 0101, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1728:A = 0101, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0101
+at T=1730:A = 0110, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1732:A = 0110, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1734:A = 0110, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1736:A = 0110, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1738:A = 0110, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1740:A = 0110, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1742:A = 0110, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0110
+at T=1744:A = 0110, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0110
+at T=1746:A = 0110, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1748:A = 0110, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1750:A = 0110, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1752:A = 0110, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1754:A = 0110, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1756:A = 0110, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1758:A = 0110, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0110
+at T=1760:A = 0110, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0110
+at T=1762:A = 0111, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1764:A = 0111, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1766:A = 0111, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1768:A = 0111, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0011
+at T=1770:A = 0111, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1772:A = 0111, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0101
+at T=1774:A = 0111, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0110
+at T=1776:A = 0111, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0111
+at T=1778:A = 0111, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1780:A = 0111, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1782:A = 0111, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1784:A = 0111, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0011
+at T=1786:A = 0111, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1788:A = 0111, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0101
+at T=1790:A = 0111, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0110
+at T=1792:A = 0111, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0111
+at T=1794:A = 1000, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1796:A = 1000, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1798:A = 1000, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1800:A = 1000, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1802:A = 1000, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1804:A = 1000, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1806:A = 1000, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1808:A = 1000, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1810:A = 1000, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1812:A = 1000, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1814:A = 1000, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1816:A = 1000, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1818:A = 1000, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1820:A = 1000, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1822:A = 1000, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1824:A = 1000, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1826:A = 1001, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1828:A = 1001, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1830:A = 1001, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1832:A = 1001, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1834:A = 1001, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1836:A = 1001, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1838:A = 1001, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1840:A = 1001, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1842:A = 1001, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1844:A = 1001, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1001
+at T=1846:A = 1001, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1848:A = 1001, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1001
+at T=1850:A = 1001, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1852:A = 1001, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1001
+at T=1854:A = 1001, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1856:A = 1001, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1001
+at T=1858:A = 1010, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1860:A = 1010, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1862:A = 1010, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1864:A = 1010, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1866:A = 1010, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1868:A = 1010, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1870:A = 1010, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1872:A = 1010, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1874:A = 1010, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1876:A = 1010, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1878:A = 1010, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1010
+at T=1880:A = 1010, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1010
+at T=1882:A = 1010, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1884:A = 1010, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1886:A = 1010, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1010
+at T=1888:A = 1010, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1010
+at T=1890:A = 1011, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1892:A = 1011, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1894:A = 1011, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1896:A = 1011, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0011
+at T=1898:A = 1011, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1900:A = 1011, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1902:A = 1011, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1904:A = 1011, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0011
+at T=1906:A = 1011, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1908:A = 1011, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1001
+at T=1910:A = 1011, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1010
+at T=1912:A = 1011, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1011
+at T=1914:A = 1011, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1916:A = 1011, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1001
+at T=1918:A = 1011, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1010
+at T=1920:A = 1011, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1011
+at T=1922:A = 1100, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1924:A = 1100, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1926:A = 1100, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1928:A = 1100, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1930:A = 1100, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1932:A = 1100, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1934:A = 1100, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1936:A = 1100, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1938:A = 1100, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1940:A = 1100, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1942:A = 1100, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1944:A = 1100, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1946:A = 1100, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1100
+at T=1948:A = 1100, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1100
+at T=1950:A = 1100, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1100
+at T=1952:A = 1100, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1100
+at T=1954:A = 1101, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1956:A = 1101, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1958:A = 1101, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1960:A = 1101, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=1962:A = 1101, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1964:A = 1101, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0101
+at T=1966:A = 1101, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1968:A = 1101, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0101
+at T=1970:A = 1101, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1972:A = 1101, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1001
+at T=1974:A = 1101, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=1976:A = 1101, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1001
+at T=1978:A = 1101, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1100
+at T=1980:A = 1101, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1101
+at T=1982:A = 1101, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1100
+at T=1984:A = 1101, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1101
+at T=1986:A = 1110, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1988:A = 1110, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=1990:A = 1110, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1992:A = 1110, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=1994:A = 1110, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1996:A = 1110, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=1998:A = 1110, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0110
+at T=2000:A = 1110, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0110
+at T=2002:A = 1110, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=2004:A = 1110, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=2006:A = 1110, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1010
+at T=2008:A = 1110, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1010
+at T=2010:A = 1110, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1100
+at T=2012:A = 1110, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1100
+at T=2014:A = 1110, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1110
+at T=2016:A = 1110, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1110
+at T=2018:A = 1111, B = 0000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0000
+at T=2020:A = 1111, B = 0001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0001
+at T=2022:A = 1111, B = 0010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0010
+at T=2024:A = 1111, B = 0011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0011
+at T=2026:A = 1111, B = 0100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0100
+at T=2028:A = 1111, B = 0101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0101
+at T=2030:A = 1111, B = 0110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0110
+at T=2032:A = 1111, B = 0111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 0111
+at T=2034:A = 1111, B = 1000,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1000
+at T=2036:A = 1111, B = 1001,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1001
+at T=2038:A = 1111, B = 1010,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1010
+at T=2040:A = 1111, B = 1011,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1011
+at T=2042:A = 1111, B = 1100,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1100
+at T=2044:A = 1111, B = 1101,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1101
+at T=2046:A = 1111, B = 1110,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1110
+at T=2048:A = 1111, B = 1111,S1 = 1,S0 = 1, Add_Sub = 00000, is A>B:0, is A=B:0, is A<B:0, AND = 1111
+

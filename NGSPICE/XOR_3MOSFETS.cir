@@ -1,0 +1,38 @@
+
+.include TSMC_180nm.txt
+
+.param SUPPLY = 5
+.param LAMBDA = 0.18u
+
+.param wn1 = {10*LAMBDA}
+.param ln1 = {2*LAMBDA}
+
+.param wp1 = {10*LAMBDA}
+.param lp1 = {LAMBDA}
+.param wp2 = {10*LAMBDA}
+.param lp2 = {LAMBDA}
+
+.global GND
+
+Vdd Vdd GND 'SUPPLY'
+
+Va A GND PULSE(0 'SUPPLY' 0ns 100ps 100ps 10ns 20ns)
+Vb B GND PULSE(0 'SUPPLY' 0ns 100ps 100ps 20ns 40ns)
+
+mn1 Out B GND GND CMOSN W = {wn1} L = {ln1}
+    + AS = {5*wn1*LAMBDA} PS = {10*LAMBDA + 2*wn1} AD = {5*wn1*LAMBDA} PD = {10*LAMBDA + 2*wn1}
+mp1 Out B A Vdd  CMOSP W = {wp1} L = {lp1}
+    + AS = {5*wp1*LAMBDA} PS = {10*LAMBDA + 2*wp1} AD = {5*wp1*LAMBDA} PD = {10*LAMBDA + 2*wp1}
+mp2 Out A B Vdd  CMOSP W = {wp2} L = {lp2}
+    + AS = {5*wp2*LAMBDA} PS = {10*LAMBDA + 2*wp2} AD = {5*wp2*LAMBDA} PD = {10*LAMBDA + 2*wp2}
+
+.tran 1n 100n
+
+.control 
+run
+set color0 = white
+set color1 = black
+plot v(A) v(B)+6 v(Out)+12
+.endc
+.end
+

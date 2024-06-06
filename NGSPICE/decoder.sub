@@ -1,0 +1,10 @@
+
+.subckt decoder S0 S1 D0 D1 D2 D3 Vdd GND
+    X1 S0 SN0 Vdd GND NOT
+    X2 S1 SN1 Vdd GND NOT
+    
+    X3 S1 S0 D3 Vdd GND AND2
+    X4 S1 SN0 D2 Vdd GND AND2
+    X5 SN1 S0 D1 Vdd GND AND2
+    X6 SN1 SN0 D0 Vdd GND AND2
+.ends decoder

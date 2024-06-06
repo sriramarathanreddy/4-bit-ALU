@@ -1,0 +1,148 @@
+* SPICE3 file created from and_4bit.ext - technology: scmos
+
+.include TSMC_180nm.txt
+.param SUPPLY = 1.8
+.global Gnd
+Vdd VDD Gnd 'SUPPLY'
+.option scale=0.09u
+
+VinA3 A3 Gnd DC 'SUPPLY'
+VinA2 A2 Gnd DC 0
+VinA1 A1 Gnd DC 'SUPPLY'
+VinA0 A0 Gnd DC 'SUPPLY'
+
+VinB3 B3 Gnd DC 'SUPPLY'
+VinB2 B2 Gnd DC 'SUPPLY'
+VinB1 B1 Gnd DC 0
+VinB0 B0 Gnd DC 'SUPPLY'
+
+M1000 a_566_50# B1 Gnd Gnd CMOSN w=20 l=4
++  ad=440 pd=124 as=1760 ps=496
+M1001 a_213_102# B3 VDD VDD CMOSP w=20 l=2
++  ad=440 pd=124 as=2640 ps=744
+M1002 a_213_102# A3 VDD VDD CMOSP w=20 l=2
++  ad=0 pd=0 as=0 ps=0
+M1003 a_396_50# B2 Gnd Gnd CMOSN w=20 l=4
++  ad=440 pd=124 as=0 ps=0
+M1004 a_553_102# A1 VDD VDD CMOSP w=20 l=2
++  ad=440 pd=124 as=0 ps=0
+M1005 OUT_AND2 a_383_102# VDD w_475_87# CMOSP w=20 l=2
++  ad=220 pd=62 as=0 ps=0
+M1006 a_736_50# B0 Gnd Gnd CMOSN w=20 l=4
++  ad=440 pd=124 as=0 ps=0
+M1007 OUT_AND3 a_213_102# VDD w_305_87# CMOSP w=20 l=2
++  ad=220 pd=62 as=0 ps=0
+M1008 OUT_AND2 a_383_102# Gnd Gnd CMOSN w=20 l=4
++  ad=220 pd=62 as=0 ps=0
+M1009 OUT_AND1 a_553_102# VDD w_645_87# CMOSP w=20 l=2
++  ad=220 pd=62 as=0 ps=0
+M1010 OUT_AND3 a_213_102# Gnd Gnd CMOSN w=20 l=4
++  ad=220 pd=62 as=0 ps=0
+M1011 a_383_102# B2 VDD VDD CMOSP w=20 l=2
++  ad=440 pd=124 as=0 ps=0
+M1012 OUT_AND1 a_553_102# Gnd Gnd CMOSN w=20 l=4
++  ad=220 pd=62 as=0 ps=0
+M1013 a_723_102# B0 VDD VDD CMOSP w=20 l=2
++  ad=440 pd=124 as=0 ps=0
+M1014 OUT_AND0 a_723_102# VDD w_815_87# CMOSP w=20 l=2
++  ad=220 pd=62 as=0 ps=0
+M1015 a_723_102# A0 VDD VDD CMOSP w=20 l=2
++  ad=0 pd=0 as=0 ps=0
+M1016 a_213_102# A3 a_226_50# Gnd CMOSN w=20 l=4
++  ad=220 pd=62 as=440 ps=124
+M1017 OUT_AND0 a_723_102# Gnd Gnd CMOSN w=20 l=4
++  ad=220 pd=62 as=0 ps=0
+M1018 a_383_102# A2 VDD VDD CMOSP w=20 l=2
++  ad=0 pd=0 as=0 ps=0
+M1019 a_553_102# A1 a_566_50# Gnd CMOSN w=20 l=4
++  ad=220 pd=62 as=0 ps=0
+M1020 a_553_102# B1 VDD VDD CMOSP w=20 l=2
++  ad=0 pd=0 as=0 ps=0
+M1021 a_383_102# A2 a_396_50# Gnd CMOSN w=20 l=4
++  ad=220 pd=62 as=0 ps=0
+M1022 a_723_102# A0 a_736_50# Gnd CMOSN w=20 l=4
++  ad=220 pd=62 as=0 ps=0
+M1023 a_226_50# B3 Gnd Gnd CMOSN w=20 l=4
++  ad=0 pd=0 as=0 ps=0
+C0 a_723_102# B0 0.16fF
+C1 a_723_102# w_815_87# 0.06fF
+C2 VDD w_305_87# 0.06fF
+C3 OUT_AND2 Gnd 0.14fF
+C4 VDD A0 0.06fF
+C5 a_383_102# a_396_50# 0.21fF
+C6 a_226_50# a_213_102# 0.21fF
+C7 VDD B1 0.06fF
+C8 VDD a_213_102# 0.67fF
+C9 a_213_102# B3 0.16fF
+C10 a_383_102# w_475_87# 0.06fF
+C11 w_645_87# OUT_AND1 0.06fF
+C12 Gnd OUT_AND0 0.14fF
+C13 VDD A3 0.06fF
+C14 VDD A2 0.06fF
+C15 a_723_102# A0 0.29fF
+C16 Gnd a_736_50# 0.21fF
+C17 VDD B3 0.06fF
+C18 a_383_102# A2 0.29fF
+C19 VDD A1 0.06fF
+C20 OUT_AND2 VDD 0.21fF
+C21 VDD B2 0.06fF
+C22 a_553_102# a_566_50# 0.21fF
+C23 Gnd a_396_50# 0.21fF
+C24 a_553_102# B1 0.16fF
+C25 VDD OUT_AND0 0.21fF
+C26 OUT_AND3 Gnd 0.14fF
+C27 w_645_87# VDD 0.06fF
+C28 Gnd OUT_AND1 0.14fF
+C29 OUT_AND3 w_305_87# 0.06fF
+C30 a_383_102# VDD 0.67fF
+C31 VDD a_723_102# 0.67fF
+C32 a_383_102# B2 0.16fF
+C33 Gnd a_566_50# 0.21fF
+C34 a_553_102# VDD 0.67fF
+C35 VDD B0 0.06fF
+C36 w_305_87# a_213_102# 0.06fF
+C37 VDD w_815_87# 0.06fF
+C38 a_553_102# A1 0.29fF
+C39 w_475_87# VDD 0.06fF
+C40 A3 a_213_102# 0.29fF
+C41 OUT_AND3 VDD 0.21fF
+C42 w_645_87# a_553_102# 0.06fF
+C43 OUT_AND0 w_815_87# 0.06fF
+C44 VDD OUT_AND1 0.21fF
+C45 a_226_50# Gnd 0.21fF
+C46 w_475_87# OUT_AND2 0.06fF
+C47 a_723_102# a_736_50# 0.21fF
+C48 B0 Gnd 0.50fF
+C49 B1 Gnd 0.43fF
+C50 B2 Gnd 0.49fF
+C51 B3 Gnd 0.50fF
+C52 a_736_50# Gnd 0.22fF
+C53 A0 Gnd 0.50fF
+C54 a_566_50# Gnd 0.07fF
+C55 A1 Gnd 0.45fF
+C56 a_396_50# Gnd 0.22fF
+C57 A2 Gnd 0.45fF
+C58 Gnd Gnd 0.32fF
+C59 a_226_50# Gnd 0.22fF
+C60 A3 Gnd 0.50fF
+C61 OUT_AND0 Gnd 0.13fF
+C62 a_723_102# Gnd 0.80fF
+C63 OUT_AND1 Gnd 0.13fF
+C64 a_553_102# Gnd 0.80fF
+C65 OUT_AND2 Gnd 0.13fF
+C66 a_383_102# Gnd 0.80fF
+C67 OUT_AND3 Gnd 0.13fF
+C68 a_213_102# Gnd 0.80fF
+C69 w_815_87# Gnd 1.16fF
+C70 w_645_87# Gnd 0.20fF
+C71 w_305_87# Gnd 0.22fF
+C72 VDD Gnd 11.19fF
+
+.tran 1n 10n
+.control
+run
+set color0 = white
+set color1 = black
+plot v(OUT_AND0) v(OUT_AND1)+2 v(OUT_AND2)+4 v(OUT_AND3)+6
+.endc
+.end

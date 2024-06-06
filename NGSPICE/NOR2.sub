@@ -1,0 +1,11 @@
+
+.subckt NOR2 A B OUT Vdd GND
+    Mp1 Y A Vdd Vdd CMOSP W = {wp1} L = {lp1}
+    + AS = {5*wp1*LAMBDA} PS = {10*LAMBDA + 2*wp1} AD = {5*wp1*LAMBDA} PD = {10*LAMBDA + 2*wp1}
+    Mp2 OUT B Y Vdd CMOSP W = {wp2} L = {lp2}
+    + AS = {5*wp2*LAMBDA} PS = {10*LAMBDA + 2*wp2} AD = {5*wp2*LAMBDA} PD = {10*LAMBDA + 2*wp2}
+    Mn1 OUT A GND GND CMOSN W = {wn1} L = {ln1}
+    + AS = {5*wn1*LAMBDA} PS = {10*LAMBDA + 2*wn1} AD = {5*wn1*LAMBDA} PD = {10*LAMBDA + 2*wn1}
+    Mn2 OUT B GND GND CMOSN W = {wn2} L = {ln2}
+    + AS = {5*wn2*LAMBDA} PS = {10*LAMBDA + 2*wn2} AD = {5*wn2*LAMBDA} PD = {10*LAMBDA + 2*wn2}
+.ends NOR2

@@ -1,0 +1,15 @@
+
+.subckt NAND3 A B C OUT Vdd GND
+    Mp1 OUT A Vdd Vdd CMOSP W = {wp1} L = {lp1}
+    + AS = {5*wp1*LAMBDA} PS = {10*LAMBDA + 2*wp1} AD = {5*wp1*LAMBDA} PD = {10*LAMBDA + 2*wp1}
+    Mp2 OUT B Vdd Vdd CMOSP W = {wp2} L = {lp2}
+    + AS = {5*wp2*LAMBDA} PS = {10*LAMBDA + 2*wp2} AD = {5*wp2*LAMBDA} PD = {10*LAMBDA + 2*wp2}
+    Mp3 OUT C Vdd Vdd CMOSP W = {wp3} L = {lp3}
+    + AS = {5*wp3*LAMBDA} PS = {10*LAMBDA + 2*wp3} AD = {5*wp3*LAMBDA} PD = {10*LAMBDA + 2*wp3}
+    Mn1 OUT A X GND CMOSN W = {wn1} L = {ln1}
+    + AS = {5*wn1*LAMBDA} PS = {10*LAMBDA + 2*wn1} AD = {5*wn1*LAMBDA} PD = {10*LAMBDA + 2*wn1}
+    Mn2 X B Y GND CMOSN W = {wn2} L = {ln2}
+    + AS = {5*wn2*LAMBDA} PS = {10*LAMBDA + 2*wn2} AD = {5*wn2*LAMBDA} PD = {10*LAMBDA + 2*wn2}
+    Mn3 Y C GND GND CMOSN W = {wn3} L = {ln3}
+    + AS = {5*wn3*LAMBDA} PS = {10*LAMBDA + 2*wn3} AD = {5*wn3*LAMBDA} PD = {10*LAMBDA + 2*wn3}
+.ends NAND3
